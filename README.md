@@ -23,7 +23,7 @@ For å redigere dette kodeområdet i MakeCode.
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/olauk/ai-lens-objekt_trening/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](https://github.com/olauk/ai-lens-objekt_trening/blob/0bb61952b285631a65af81e3c6d547df8195b6ac/.github/makecode/blocks.png)
 
 #### Metadata (brukes for søk, visualisering)
 
