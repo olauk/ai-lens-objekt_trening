@@ -10,7 +10,7 @@ Dette kodeområdet kan bli lagt til som en **utvidelse** i MakeCode.
 * klikk på **Utvidelser** i menyen under tannhjulet
 * søk etter **https://github.com/olauk/ai-lens-objekt_trening** og importér
 
-## Rediger dette prosjektet ![Build status badge](https://github.com/olauk/ai-lens-objekt_trening/workflows/MakeCode/badge.svg)
+## Rediger dette prosjektet
 
 For å redigere dette kodeområdet i MakeCode.
 
